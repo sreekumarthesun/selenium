@@ -4,6 +4,7 @@
 	<test name="test1">
 		<classes>
 			<class name="com.test.selenium.TestHello" />
+			<class name="com.test.selenium.TestLogin" />
 		</classes>
 	</test>
 </suite>
