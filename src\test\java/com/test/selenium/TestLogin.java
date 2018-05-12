@@ -7,7 +7,7 @@ public class TestLogin {
 
 	@Test
 
-	public void init() throws InterruptedException {
+	public void launch() throws InterruptedException {
 		//System.setProperty("webdriver.gecko.driver", "/Users/i339884/Desktop/selenium/Selenium/softwares/geckodriver");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://www.google.com");

@@ -7,7 +7,7 @@ public class TestHello {
 
 	@Test
 
-	public void init() throws InterruptedException {
+	public void setup() throws InterruptedException {
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http://www.google.com");
  

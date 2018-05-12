@@ -2,21 +2,21 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="20708" started-at="2018-05-11T10:26:58Z" finished-at="2018-05-11T10:27:19Z">
+  <suite name="Suite1" duration-ms="24582" started-at="2018-05-12T04:31:36Z" finished-at="2018-05-12T04:32:01Z">
     <groups>
     </groups>
-    <test name="test1" duration-ms="20708" started-at="2018-05-11T10:26:58Z" finished-at="2018-05-11T10:27:19Z">
+    <test name="test1" duration-ms="24582" started-at="2018-05-12T04:31:36Z" finished-at="2018-05-12T04:32:01Z">
       <class name="com.test.selenium.TestLogin">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.test.selenium.TestLogin@1753acfe]" name="init" duration-ms="9444" started-at="2018-05-11T15:57:10Z" finished-at="2018-05-11T15:57:19Z">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.test.selenium.TestLogin@1753acfe]" name="launch" duration-ms="12846" started-at="2018-05-12T10:01:48Z" finished-at="2018-05-12T10:02:01Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- init -->
+        </test-method> <!-- launch -->
       </class> <!-- com.test.selenium.TestLogin -->
       <class name="com.test.selenium.TestHello">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.test.selenium.TestHello@643b1d11]" name="init" duration-ms="11253" started-at="2018-05-11T15:56:58Z" finished-at="2018-05-11T15:57:10Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.selenium.TestHello@643b1d11]" name="setup" duration-ms="11726" started-at="2018-05-12T10:01:36Z" finished-at="2018-05-12T10:01:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- init -->
+        </test-method> <!-- setup -->
       </class> <!-- com.test.selenium.TestHello -->
     </test> <!-- test1 -->
   </suite> <!-- Suite1 -->
