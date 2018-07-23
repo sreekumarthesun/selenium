@@ -12,6 +12,7 @@ public class TestHello {
 		driver.get("http://www.google.com");
  
 		Thread.sleep(5000);
+		driver.close();
 		driver.quit();
 	}
 
